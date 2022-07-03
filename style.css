@@ -23,7 +23,7 @@ body
 
 .container .left
 {
-    background: url(images/image-product-desktop.jpg) no-repeat center;
+    background: url(Images/image-product-desktop.jpg) no-repeat center;
     background-size: cover;
     width: 50%;
     height: 31rem;
